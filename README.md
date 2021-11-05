@@ -9,7 +9,7 @@
 ## 
 
 <div> 
-    <a href = "mailto:victor.landin@dtidigital.com.br">
+    <a href = "mailto:victor.h.landin@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
     </a>
 </div>
