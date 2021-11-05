@@ -4,7 +4,7 @@
 
 - 💻 Software Developer
 - 🖥️ Bacharel em Ciência da Computação pela UFLA
-- ☕ Estudando Java, Spring, Vue, entre outras coisas
+- ☕ Estudando Java, Spring, React, Vue, Angular, entre outras coisas...
 
 ## 
 
@@ -18,7 +18,7 @@
 <div>
   <a href="https://github.com/victordti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordti&layout=compact&langs_count=7&theme=dark"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordti&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
  
     
